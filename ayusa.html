@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>SPA CRUD Tareas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <h1>SPA CRUD de Tareas</h1>
+
+        <div class="form">
+
+            <input
+                type="text"
+                id="title"
+                placeholder="Escribe una tarea"
+            >
+
+            <select id="priority">
+                <option value="">Seleccione prioridad</option>
+                <option value="Alta">Alta</option>
+                <option value="Media">Media</option>
+                <option value="Baja">Baja</option>
+            </select>
+
+            <button id="saveBtn">
+                Guardar tarea
+            </button>
+
+            <p id="error"></p>
+        </div>
+
+        <div id="taskList" class="task-list"></div>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
