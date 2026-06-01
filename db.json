@@ -1,0 +1,92 @@
+{
+    "malecon":[
+        {
+            "name": "Moises",
+            "lastname": "Cantillo",
+            "birthDate": "20-12-1999",
+            "photo": "https://res.cloudinary.com/torre-technologies-co/image/upload/v1693433829/origin/starrgate/users/profile_a29ab595a05990ed268d0c6dcc6447e5d17ace37.jpg",
+            "description": "Tira código",
+            "color": "violet"
+        },
+        {
+            "name": "Luis",
+            "lastname": "Diaz",
+            "birthDate": "05-12-1997",
+            "photo": "https://estaticos.elcolombiano.com/binrepository/852x565/28c0/780d565/none/11101/XJXQ/whatsapp-image-2026-04-29-at-12-51-49-pm_50489386_20260429195753.jpg",
+            "description": "Juega fulbo",
+            "color": "emerald"
+        },
+        {
+            "name": "Carlos",
+            "lastname": "Perez",
+            "birthDate": "12-03-1995",
+            "photo": "https://picsum.photos/seed/carlos/400/400",
+            "description": "Le gusta el baloncesto",
+            "color": "blue"
+        },
+        {
+            "name": "Ana",
+            "lastname": "Gomez",
+            "birthDate": "22-07-1998",
+            "photo": "https://picsum.photos/seed/ana/400/400",
+            "description": "Amante de la lectura",
+            "color": "rose"
+        },
+        {
+            "name": "Miguel",
+            "lastname": "Torres",
+            "birthDate": "10-01-1992",
+            "photo": "https://picsum.photos/seed/miguel/400/400",
+            "description": "Programador web",
+            "color": "indigo"
+        },
+        {
+            "name": "Sofia",
+            "lastname": "Ramirez",
+            "birthDate": "18-09-2000",
+            "photo": "https://picsum.photos/seed/sofia/400/400",
+            "description": "Le encanta la música",
+            "color": "purple"
+        },
+        {
+            "name": "Jorge",
+            "lastname": "Castro",
+            "birthDate": "30-11-1993",
+            "photo": "https://picsum.photos/seed/jorge/400/400",
+            "description": "Fan del ciclismo",
+            "color": "yellow"
+        },
+        {
+            "name": "Lucia",
+            "lastname": "Fernandez",
+            "birthDate": "14-02-1999",
+            "photo": "https://picsum.photos/seed/lucia/400/400",
+            "description": "Diseñadora gráfica",
+            "color": "pink"
+        },
+        {
+            "name": "Andres",
+            "lastname": "Morales",
+            "birthDate": "05-06-1996",
+            "photo": "https://picsum.photos/seed/andres/400/400",
+            "description": "Apasionado por los videojuegos",
+            "color": "cyan"
+        },
+        {
+            "name": "Valentina",
+            "lastname": "Rojas",
+            "birthDate": "27-08-2001",
+            "photo": "https://picsum.photos/seed/valentina/400/400",
+            "description": "Le gusta viajar",
+            "color": "orange"
+        },
+        {
+            "name": "Diego",
+            "lastname": "Vargas",
+            "birthDate": "09-04-1994",
+            "photo": "https://picsum.photos/seed/diego/400/400",
+            "description": "Entrena en el gimnasio",
+            "color": "lime"
+        }
+    ]
+}
